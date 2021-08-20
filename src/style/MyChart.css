@@ -1,0 +1,21 @@
+.graph-main{
+    margin-top: 30px;
+}
+
+.bar, .line {
+    width: 400px;
+    height: 700px;
+}
+
+.line{
+    margin-top: auto;
+}
+
+.pie{
+    width: 300px;
+    height: 400px;
+}
+
+.selcter{
+    margin-top: 80px;
+}

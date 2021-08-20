@@ -1,0 +1,37 @@
+.card-main {
+  margin-top: 80px;
+}
+
+.card {
+  width: 300px;
+  height: auto;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: aqua;
+}
+
+.button{
+  float: right;
+  margin: 5px;
+}
+
+.amount{
+  width: 120px;
+}
+
+input, select, textarea{
+  margin: 2px;
+  width: 120px;
+}
+
+.labels {
+  padding-top: 14px;
+  text-align: right;
+}
+
+#h6{
+  display: inline;
+  margin-left: 8px;
+  font-size: 12px;
+  color: rgb(122, 121, 121);
+}
